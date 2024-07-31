@@ -1,4 +1,4 @@
-baseurl = "www.chicagobeachday.com"
+baseurl = "chicagobeachday.com"
 languageCode = "en"
 title = "Chicago Beach Day"
 theme = "kiss"
@@ -22,7 +22,7 @@ adsense = "" # Adsense ID (ID only, without ca-pub-)
 enableSocial = false # Adds OpenGraph and Twitter cards
 homeTitle = "" # Title for home page
 poweredby = true # Adds powered by hugo and kiss below Copyright
-related = true # Includes related articles at the bottom of the article
+related = false # Includes related articles at the bottom of the article
 codeCopy = true # Add copy button above code blocks
 taxonomiesCount = true # Add taxonomies count
 dateFormat = "01/02" # Change dateFormat DO NOT CHANGE THE NUMBER
