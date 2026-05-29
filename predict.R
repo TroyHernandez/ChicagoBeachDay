@@ -92,7 +92,7 @@ if (!air_ok && !water_ok) {
 md <- paste0(
   "+++\n",
   "title = \"Is today a good day to go to the beach in Chicago?\"\n",
-  "description = \"\",\n",
+  "description = \"\"\n",
   "date = \"", Sys.Date(), "\"\n",
   "categories = [\"Beach Day\"]\n",
   "menu = \"main\"\n",

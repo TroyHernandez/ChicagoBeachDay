@@ -1,6 +1,6 @@
 +++
 title = "Is today a good day to go to the beach in Chicago?"
-description = "",
+description = ""
 date = "2026-05-29"
 categories = ["Beach Day"]
 menu = "main"
