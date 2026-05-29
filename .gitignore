@@ -6,3 +6,4 @@
 .hugo_build.lock
 *.Rproj
 public/
+.positai

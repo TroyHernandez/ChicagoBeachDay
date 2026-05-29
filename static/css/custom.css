@@ -1,0 +1,26 @@
+/* Chicago Beach Day — custom styles */
+
+.verdict {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 2rem 0;
+}
+
+.verdict-yes {
+  color: #28a745;
+}
+
+.verdict-no {
+  color: #dc3545;
+}
+
+.temp-display {
+  font-size: 1.2rem;
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.temp-display strong {
+  font-size: 1.5rem;
+}
