@@ -1,17 +1,17 @@
 +++
 title = "Is today a good day to go to the beach in Chicago?"
 description = ""
-date = "2026-08-29"
+date = "2026-08-30"
 categories = ["Beach Day"]
 menu = "main"
 +++
 
 ![Thumbs Up](/images/thumbs-up.webp)
 
-**Forecast high:** 81°F  
-**Predicted water temp:** 75°F  
+**Forecast high:** 84°F  
+**Predicted water temp:** 75.2°F  
 
-Air temp 81°F and predicted water temp 75°F both look great.
+Air temp 84°F and predicted water temp 75.2°F both look great.
 
 ---
 
