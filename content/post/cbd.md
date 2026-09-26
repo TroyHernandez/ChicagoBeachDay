@@ -1,17 +1,17 @@
 +++
 title = "Is today a good day to go to the beach in Chicago?"
 description = ""
-date = "2026-09-25"
+date = "2026-09-26"
 categories = ["Beach Day"]
 menu = "main"
 +++
 
 ![Thumbs Down](/images/thumbs-down.webp)
 
-**Forecast high:** 66°F  
-**Predicted water temp:** 64.2°F  
+**Forecast high:** 67°F  
+**Predicted water temp:** 64°F  
 
-Air temp too cool (66°F, need >80°F) and water temp too cool (64.2°F, need >70°F).
+Air temp too cool (67°F, need >80°F) and water temp too cool (64°F, need >70°F).
 
 ---
 
